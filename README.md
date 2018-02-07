@@ -3,7 +3,7 @@
 ## A python stock chart system using numpy and Python.
 
 ## Setup Instructions
-Install python
-Install numpy
-Run the project inside of Netbeans or similar IDE.
-Have fun.
+1. Install python
+2. Install numpy
+3. Run the project inside of Netbeans or similar IDE.
+4. Have fun.
